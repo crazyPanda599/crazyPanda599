@@ -17,9 +17,7 @@
 - 📝 I regularly write articles on [https://crazypanda.live/](https://crazypanda.live/)
 
 - 💬 Ask me about **hacking**
-
-- 📫 How to reach me **crazypanda599@protonmail.com**
-
+- 
 - ⚡ Fun fact **Human Error Dominates Breaches: 95% of all data breaches occur due to human error—underscoring the importance of cybersecurity awareness and training.**
 
 <h3 align="left">Connect with me:</h3>
